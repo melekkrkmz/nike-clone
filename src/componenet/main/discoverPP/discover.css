@@ -1,0 +1,24 @@
+.nikeApp-tarainin{
+    background-image: url("../../../../public/resimler/resmi-nike-sitesi.jpeg");
+    width: 650px;
+    height: 300px;
+    background-size: cover;
+    position: relative;
+}
+
+.nikeApp{
+    background-image: url("../../../../public/resimler/resmi-nike-sitesi (10).jpg");
+    width: 650px;
+    height: 300px;
+    background-size: cover;
+    position: relative;
+}
+.app-content{
+    position:absolute;
+    bottom: 30px;
+    left: 30px;
+    color: white;
+    line-height: 40px;
+}
+
+

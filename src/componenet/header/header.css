@@ -1,0 +1,43 @@
+.header {
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+    background: #f7f0f0;
+    padding: 0px 45px;
+    align-items: center;
+}
+
+.rigt-header-content>ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.header-list {
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+    padding: 4px;
+}
+
+.header-list li {
+    margin-right: 8px;
+    padding-right: 5px;
+
+}
+
+.header-list a {
+    font-size: 13px;
+    color: inherit;
+    font-weight: 500;
+    text-decoration: none;
+    padding-right: 4px;
+
+}
+
+.rigt-header-content {
+    height: 100%;
+}
+.Jordan-Logo img{
+ height: 23px;
+}
